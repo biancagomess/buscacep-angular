@@ -1,27 +1,49 @@
-# CepAngular
+##  Buscacep - Angular
+Este projeto realiza a busca de endereço através do CEP. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
-## Development server
+Este projeto faz a comunicação com a API:  
+- [https://viacep.com.br](https://viacep.com.br)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+##  Tecnologias utilizadas: 
 
-## Code scaffolding
+- HTML 
+- CSS
+- Angular 
+- TypeScript 
+- Node.js
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Pré-requisitos 
 
-## Build
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+- [Git](https://git-scm.com)
+- [Node.js](https://node.js.org/en/)
+- [Angular Cli](https://angular.io/cli)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Além disso é bom ter um editor para trabalhar com o código como exemplo [VSCode](https://code.visualstudio.com/)
 
-## Running unit tests
+### Rodando o projeto
+```bash
+# Clone este repositório
+$ git clone <https://github.com/biancagomesalves/buscacep-angular.git>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Acesse a pasta do projeto no terminal
+# Instale as dependências 
+$ npm install
 
-## Running end-to-end tests
+# Abra o projeto no seu editor 
+$ cd buscacep-angular
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Execute o comando 
+$ ng server 
 
-## Further help
+# O servidor iniciará na porta: acesse <http://localhost:4200/>
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+Desenvolvido ❤️ por Bianca Gomes Alves 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-gomes-alves)
+
+
+
