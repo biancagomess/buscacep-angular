@@ -1,6 +1,8 @@
 ##  Buscacep - Angular
 Este projeto realiza a busca de endereço através do CEP. 
 
+![buscacep-angular](https://user-images.githubusercontent.com/81443381/190855997-23a1acf7-24cd-480f-9243-acd483805a75.png)
+
 
 Este projeto faz a comunicação com a API:  
 - [https://viacep.com.br](https://viacep.com.br)
