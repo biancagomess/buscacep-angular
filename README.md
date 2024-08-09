@@ -45,7 +45,7 @@ $ ng server
 ---
 
 Desenvolvido ❤️ por Bianca Gomes Alves 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-gomes-alves)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bianca--gomes/)
 
 
 
